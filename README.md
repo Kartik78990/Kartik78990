@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer | Anime Lover | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBycDNxM21jZjY5em1sbzY0Y2k3dWNnMW1seXBrZWpldWgzOTcxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -17,22 +17,22 @@
 ---
 
 ## 🚀 Tech Stack:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🎮 PacMan Contribution:
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🐍 GitHub Contribution Snake:
+![snake gif](https://github.com/Kartik78990/Kartik78990/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📁 Featured Projects:
 
-### 🔸 AI Chatbot
-> A react based made on python backend chatbot engine using HuggingFace.  
-> **Tech:** React, Python, Supabase
+### 🔸 AI Chess Game
+> A python-based chess engine with AI logic using Minimax Algorithm.  
+> **Tech:** Python, Pygame
 
 ### 🔸 Static Web Store
 > A basic store page using HTML, CSS, Bootstrap to showcase layout and UI.  
