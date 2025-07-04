@@ -24,7 +24,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake:
+## 👾 GitHub Contribution Pacman:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kartik78990/Kartik78990/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kartik78990/Kartik78990/output/pacman-contribution-graph.svg">
