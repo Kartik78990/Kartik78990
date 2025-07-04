@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Developer | Anime Lover | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBycDNxM21jZjY5em1sbzY0Y2k3dWNnMW1seXBrZWpldWgzOTcxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" width="250"/>
+
 </p>
 
 ---
@@ -17,7 +18,7 @@
 ---
 
 ## 🚀 Tech Stack:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,git,github,vscode,linux" />
 </p>
 
@@ -30,13 +31,13 @@
 
 ## 📁 Featured Projects:
 
-### 🔸 AI Chess Game
-> A python-based chess engine with AI logic using Minimax Algorithm.  
-> **Tech:** Python, Pygame
+### 🔸 AI Chatbot
+> A python and react based chatbot using Huggingface.  
+> **Tech:** Python, React
 
-### 🔸 Static Web Store
-> A basic store page using HTML, CSS, Bootstrap to showcase layout and UI.  
-> **Tech:** HTML, CSS, Bootstrap
+### 🔸 Portfolio
+> A basic portfolio to showcase all my skills and experience.
+> **Tech:** React
 
 ---
 
@@ -55,6 +56,6 @@
 
 ## 📫 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/kartik-pundir-aaa29328b" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" /></a>
-  <a href="https://github.com/Kartik78990" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" /></a>
+  <a href="https://linkedin.com/in/kartik-pundir-aaa29328b" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" /></a>
+  <a href="https://github.com/Kartik78990" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" /></a>
 </p>
